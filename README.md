@@ -1,7 +1,8 @@
 # RBF
-This is the python code to perform Rapid Building Backdating Footprint method. 
+This is the python code to perform Rapid Building Backdating Footprint, a backdating approach proposed by article:
+**A Straightforward Building Footprints Backdating Approach to Evaluate Land** 
 
-To run this code, you need to install several libraries using pip or conda, including rasterio, geopandas, numpy, shapely, and sklearn. 
+To run this code, you need to install several libraries using pip or conda, including _rasterio_, _geopandas_, _numpy_, _shapely_, and _sklearn_. 
 You need contemporary building data, validation dataset, and built-up mask layers. 
 
 Building dataset them could be obtained from:
